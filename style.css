@@ -1,0 +1,39 @@
+body{
+    padding: 100px;
+}
+
+.bankTitle{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.submit-area{
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow:5px 5px 10px grey;
+    padding: 40px;
+}
+.enterbtn{
+    border-radius: 5px;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+}
+#transiction-area {
+    display: none;
+}
+.status{
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 20px;
+    color: white;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdrow{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
